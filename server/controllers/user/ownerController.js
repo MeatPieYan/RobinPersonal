@@ -1,6 +1,5 @@
-/**
- * Created by Robin on 15/10/10.
- */
+var mongoose = require('mongoose');
+
 module.exports = function() {
 
     return function(req, res, next) {
