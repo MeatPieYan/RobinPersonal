@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="angularjs-personalRobin" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/resources/javascript/angular.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
